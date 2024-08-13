@@ -35,6 +35,6 @@ npm install
 Launch Development Server
 ```bash
 
-npm start
+npm run dev
 ```
 Visit http://localhost:3000 to view the application.
