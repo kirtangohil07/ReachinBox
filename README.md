@@ -21,3 +21,17 @@ Reachinbox is an advanced web application designed to enhance email interactions
 
 ```bash
 git clone https://github.com/kirtangohil07/ReachinBox.git
+
+Change Directory to Project Folder
+bash
+Copy code
+cd ReachinBox
+Install Required Packages
+bash
+Copy code
+npm install
+Launch Development Server
+bash
+Copy code
+npm start
+Visit http://localhost:3000 to view the application.
